@@ -1,0 +1,18 @@
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.category {
+    width: 25%;
+}
+
+pre {
+    font-family: monospace;
+    display: inline;
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+}
